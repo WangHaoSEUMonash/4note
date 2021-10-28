@@ -1,1 +1,5 @@
-![image](https://github.com/AngelSXD/sxd_first_repository/blob/master/images/20160615165142.png)
+![image](https://github.com/WangHaoSEUMonash/note/blob/main/1.jpg)
+
+![image](https://github.com/WangHaoSEUMonash/note/blob/main/2.jpg)
+
+![image](https://github.com/WangHaoSEUMonash/note/blob/main/3.jpg)
